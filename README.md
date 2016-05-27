@@ -10,9 +10,11 @@ Config file support (command line options beat config file)
 # Install: #
 
 cp usr/bin/spacewalk-rundeck-import /usr/local/bin/.
+
 mkdir  /etc/spacewalk-rundeck-import
 
 cp etc/spacewalk-rundeck-import/config /etc/spacewalk-rundeck-import/.
+
 vi /etc/spacewalk-rundeck-import/config
 
 # Usage: #
