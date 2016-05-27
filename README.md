@@ -15,7 +15,10 @@ mkdir  /etc/spacewalk-rundeck-import
 
 cp etc/spacewalk-rundeck-import/config /etc/spacewalk-rundeck-import/.
 
+cp etc/cron.hourly/97spacewalk-rundeck-import.cron /etc/cron.hourly/97spacewalk-rundeck-import.cron
+
 vi /etc/spacewalk-rundeck-import/config
+vi /etc/cron.hourly/97spacewalk-rundeck-import.cron
 
 # Usage: #
 
