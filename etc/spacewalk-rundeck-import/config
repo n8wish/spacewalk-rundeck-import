@@ -13,7 +13,7 @@ user: admin
 systemgroup: rundeck
 
 ### Rundeck username (Default: root)
-#username: root
+#rundeck_username: root
 
 # resource path, file where host list will be placed. Default is pwd.
 #resource_path: /tmp
