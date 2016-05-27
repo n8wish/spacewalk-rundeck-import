@@ -1,0 +1,8 @@
+#!/bin/bash
+
+### PROJECT0
+#/usr/bin/spacewalk-rundeck-import --systemgroup project0 --resource_path /var/rundeck/projects/PROJECT0/etc > /dev/null 2>&1
+
+### PROJECT1
+#/usr/bin/spacewalk-rundeck-import --systemgroup project1 --resource_path /var/rundeck/projects/PROJECT1/etc > /dev/null 2>&1
+
