@@ -4,7 +4,7 @@ Script for importing a Spacewalk Systemgroup as a Rundeck project file in yaml f
 This software in "works for me" status, tested on Fedora 23 and Centos 7 against Spacewalk 2.4
 Use at your own risk!
 
-Pulls the hostlist from Spacewalk API and saves in a file <systemgroup>.yaml for furter usage in Rundeck
+Pulls the hostlist from Spacewalk API and saves in a file \<systemgroup\>.yaml for furter usage in Rundeck
 Config file support (command line options beat config file)
 
 # Install: #
